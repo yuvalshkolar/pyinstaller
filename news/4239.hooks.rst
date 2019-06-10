@@ -1,0 +1,2 @@
+Add hook for `BTrees <https://pypi.org/project/BTrees/>`_.
+Add hook for `textdistance <https://pypi.org/project/textdistance/>`_.
